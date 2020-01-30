@@ -1,0 +1,11 @@
+
+                                    HOW TO RUN AND USER THE PROJECT
+
+
+1.We can open the project by double clicking on cmd.bat file this will automatically run the commands for local server
+2.Now in browser paste the url http://localhost:1000/index for visiting the actual site
+3.For visting the login page you can click on login menu or through url http://localhost:1000/login
+4.For Register user there is also a link for registration in login page as well as through url http://localhost:1000/registration
+there is two step layout for registration 1 for basic info and other for 3 security question
+5 For visiting the profile page either through login button or through url http://localhost:1000/profile
+6.In profile page you can see you your basic info and there is a logout button for redirecting the user back to login
